@@ -1,0 +1,12 @@
+.active {
+  background: #baddfd;
+}
+
+.data-table {
+  width: 100%;
+  overflow-x: scroll;
+}
+
+.ant-table-cell {
+  cursor: pointer;
+}
